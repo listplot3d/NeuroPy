@@ -1,5 +1,5 @@
 ### Tested Environment
- Windows11 + NeuroSky-TGAM chip based device + Ble/COM adaptor
+ Windows11 + NeuroSky/TGAM chip based device + Ble/COM adaptor
 
 ### How to use NeuroPy3
 1. copy/paste NeuroPy3.py and test_03_xxx.py into your sourcecode folder
