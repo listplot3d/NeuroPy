@@ -1,5 +1,5 @@
 ### How to use NeuroPy3
-copy/paste code of test_03 into your application, with neccessary modification.
+copy/paste code of NeuroPy3.py and test_03_xxx.py into your application, with neccessary modification.
 
 ### How to diagnostic communication problem
 1. copy above files into a folder.
