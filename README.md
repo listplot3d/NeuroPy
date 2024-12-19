@@ -1,3 +1,8 @@
+this repository is modification of NeuroPy, with python 3.12 support. Tested on Win11 platform.
+see NeuroPy3 folder.
+
+----- below are original docs from NeuroPy ---------
+
 # NeuroPy
 
 NeuroPy library written in python to connect, interact and get data from **NeuroSky's MindWave** EEG headset.
